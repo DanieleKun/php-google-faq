@@ -1,0 +1,24 @@
+main{
+    width: 70%;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    color: #3C4043;
+    margin: 20px 0;
+}
+
+h3{
+    color: #3C4043;
+    /* margin: 20px 0; */
+}
+
+li{
+    margin: 10px;
+    font-weight: 300;
+}
+
+p{
+    font-weight: 300;
+}
